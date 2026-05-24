@@ -1,1 +1,20 @@
 #流媒体专用规则
+
+# 域名完整匹配
+DOMAIN,garyshare.sharewithyou.dpdns.org
+
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,ttvb.eu.org
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,yang
+DOMAIN-KEYWORD, amg01444
+
+# IP 网段匹配  
+#  /16 固定前两个数字;  /24 固定前三个数字;   /32   IP 完整匹配
+IP-CIDR,89.187.0.0/16   
+
+
+
